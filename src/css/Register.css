@@ -1,0 +1,30 @@
+.color {
+    display: block;
+    width: 15px;
+    height: 50px;
+    background-color: #004747;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.inp-text {
+    padding: 24px; 
+    margin-right: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.inp-text1{
+    padding: 24px;
+    border-radius: 10px;
+}
+
+.register-btn {
+    margin-top : 20px;
+    padding: 10px 100px;
+    border-radius: 10px;
+    background: #004747;
+    color: #fff;
+}
+
+.col {
+    padding: 10px ;
+}

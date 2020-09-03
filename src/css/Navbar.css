@@ -1,0 +1,52 @@
+.navbar {
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.link-list {
+  margin: auto;
+  padding-left: 100px;
+  float: right;
+}
+
+.list-item {
+  padding: 5px 10px;
+}
+
+.navbar-register-button,
+.navbar-login-button {
+  margin: 10px;
+  font-size: 15px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background: #fff;
+  color: #004747;
+  border: 2px #004747;
+  box-shadow: 2px 2px 2px #004747;
+}
+
+.navbar-register-button {
+  color: #fff;
+  background: #004747;
+}
+
+.navbar-login-button {
+  margin-left: 10px;
+  padding: 5px 20px;
+}
+
+.logo {
+  max-height: 50px;
+}
+
+.logo-text {
+  padding: 0px;
+  margin-top: 15px;
+  margin-left: -50px;
+}
+
+.logo-subtext {
+  padding-left: 40px;
+  font-size: 10px;
+  margin-top: -5px;
+}

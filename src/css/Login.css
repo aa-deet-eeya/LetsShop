@@ -1,0 +1,54 @@
+* {
+    color: #004747;
+}
+
+.loginCard {
+    height: 100%;
+    width: 100%;
+    min-height: 450px;
+    max-width: 450px;
+    min-width: 450px;
+    padding: 10px;
+}
+
+.card-title {
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.form-image{
+    max-width: 60px;
+}
+
+.inp{
+    padding: 25px;
+}
+
+.login-btn {
+    margin:20px;
+    padding: 10px 100px;
+    border-radius: 10px;
+    border: 2px #004747;
+    box-shadow: 2px 2px 2px #004747;
+    background: #004747;
+    color: #fff;
+}
+
+.rememeber-me {
+    font-size: 15px;
+    padding-bottom: px;
+}
+
+a:link{
+    color : #004747ec;
+}
+
+a:visited {
+    color : #003838;
+}
+a:hover {
+    color : #004747;
+}
+a:active {
+    color : #004747;
+}

@@ -1,0 +1,28 @@
+.content-wrapper {
+    min-width: 100%;
+}
+
+.image1 {
+    max-width: 100%;
+}
+
+.cardButtons {
+    margin: 30px;
+    margin-bottom: 100px;
+}
+
+.cardButton {
+    margin: 10px;
+    border-radius: 10px;
+    padding : 5px 10px;
+    border: 2px #004747;
+    box-shadow: 2px 2px 2px #004747;
+    background: #fff;
+    color: #004747; 
+}
+
+
+.activeBtn {
+    background: #004747;
+    color: #fff;
+}
