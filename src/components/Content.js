@@ -23,7 +23,7 @@ export class Content extends Component {
     const Loginclasses = this.state.isLogin ? "content-register my-2 my-sm-0 cardButton activeBtn" : "content-register my-2 my-sm-0 cardButton";
     const RegisterClasses = !this.state.isLogin ? "content-register my-2 my-sm-0 cardButton activeBtn" : "content-register my-2 my-sm-0 cardButton";
     return (
-      <div className="container-fluid">
+      <div className="container-fluid conatiner-wrapper">
         <div className="cardButtons">
           <button
             className={Loginclasses}

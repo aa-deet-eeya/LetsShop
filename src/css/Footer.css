@@ -1,0 +1,40 @@
+footer {
+    background: #004747;
+    color: #fff;
+    position: absolute;
+    box-sizing: border-box;
+    width: 100%;
+    left: 0px;
+    right: 0px;
+}
+
+.footer-header, .contact-footer, .footer-location {
+    padding: 0px;
+    color: #fff;
+}
+
+.footer-header {
+    padding-left: -10px;
+}
+
+.footer-primary {
+    padding: 50px ;
+    color: #fff;
+}
+
+.footer-wrapper {
+    margin-top: 100px;
+}
+
+.footer-copyright {
+    margin: 0px;
+    background: #ababb3;
+    bottom: 0px;
+}
+
+.copright {
+    padding-left:30px;
+    font-size: 15px;
+    display: block;
+    color: black;
+}
