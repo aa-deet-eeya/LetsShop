@@ -11,6 +11,7 @@ footer {
 .footer-header, .contact-footer, .footer-location {
     padding: 0px;
     color: #fff;
+    white-space: nowrap;
 }
 
 .footer-header {
@@ -37,4 +38,8 @@ footer {
     font-size: 15px;
     display: block;
     color: black;
+}
+
+.icons {
+    padding-right: 25px ;
 }

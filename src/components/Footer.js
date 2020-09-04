@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import { ImFacebook } from 'react-icons/im'
+import { GrLinkedinOption, GrInstagram } from 'react-icons/gr'
 import "../css/Footer.css";
 
 export class Footer extends Component {
@@ -24,6 +26,11 @@ export class Footer extends Component {
               </div>
               <div className="col-md-2 mb-md-0 mb-3 text-left">
                 <h6 className="footer-location">Follow</h6>
+                <div className="d-flex">
+                <div className="icons"><ImFacebook style={{fill : 'white'}}/></div>
+                <div className="icons"><GrInstagram style={{fill : 'white'}}/></div>
+                <div className="icons"><GrLinkedinOption style={{fill : 'white'}}/></div>
+                </div>
               </div>
             </div>
           </div>
